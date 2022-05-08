@@ -69,7 +69,7 @@
 * :game_die: Tabletop RPG's (Eternal Dungeon Master)
 * :japanese_castle: Oriental culture in general
 
-## :izakaya_lantern: Personal projects in progress:
+## :wrench: Personal projects in progress:
 <div display="inline-block">
  <span>
     <img src="https://github.com/JoaoVFelipe/JoaoVFelipe/raw/main/assets/aiko_idle.gif" align="right" width="300" height="300"/>
