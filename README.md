@@ -65,7 +65,7 @@
 ## :wrench: Personal projects in progress:
 <div display="inline-block">
  <span>
-    <img src="https://github.com/JoaoVFelipe/JoaoVFelipe/raw/main/assets/aiko_idle.gif" align="right" width="300" height="300"/>
+    <img src="https://github.com/JoaoVFelipe/JoaoVFelipe/raw/main/assets/aiko_idle.gif" align="right" width="270" height="270"/>
  </span>
  <span> 
    <b>AIKO Personal Assistant</b>: A small AI-based virtual assistant, named Aiko, designed to help with everyday activities like taking notes, controlling music and more. The idea is to develop an application for PC and one for mobile. The language processing core, which will be used by all the applications involved, is being developed. In parallel, a discord bot was made to be integrated in the future with the other applications. 
