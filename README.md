@@ -69,6 +69,21 @@
 * :game_die: Tabletop RPG's (Eternal Dungeon Master)
 * :japanese_castle: Oriental culture in general
 
+## :izakaya_lantern: Personal projects in progress:
+<div display="inline-block">
+ <span>
+    <img src="https://github.com/JoaoVFelipe/JoaoVFelipe/raw/main/assets/aiko_idle.gif" align="right" width="300" height="300"/>
+ </span>
+ <span> 
+   <b>AIKO Personal Assistant</b>: A small AI-based virtual assistant, named Aiko, designed to help with everyday activities like taking notes, controlling music and more. The idea is to develop an application for PC and one for mobile. The language processing core, which will be used by all the applications involved, is being developed. In parallel, a discord bot was made to be integrated in the future with the other applications. 
+ </span>
+</div>
+
+### Related Repos:
+* [NLU Core](https://github.com/JoaoVFelipe/aiko-core)
+* [Desktop Assistant](https://github.com/JoaoVFelipe/aiko-desktop_assistant)
+* [Discord BOT](https://github.com/JoaoVFelipe/aiko-discord-bot)
+
 ## :chart_with_upwards_trend: My stats:
 <p align="center">
   <a href="https://github.com/JoaoVFelipe">
