@@ -62,13 +62,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![DialogFlow](https://img.shields.io/badge/-DialogFlow-05122A?style=flat&logo=dialogflow)&nbsp;
 
-## :izakaya_lantern: Hobbies and things that I love:
-* :airplane: Motorcycle trips and travels in general
-* :guitar: Play and listen music
-* :video_game: Games
-* :game_die: Tabletop RPG's (Eternal Dungeon Master)
-* :japanese_castle: Oriental culture in general
-
 ## :wrench: Personal projects in progress:
 <div display="inline-block">
  <span>
@@ -83,6 +76,13 @@
 * [NLU Core](https://github.com/JoaoVFelipe/aiko-core)
 * [Desktop Assistant](https://github.com/JoaoVFelipe/aiko-desktop_assistant)
 * [Discord BOT](https://github.com/JoaoVFelipe/aiko-discord-bot)
+
+## :izakaya_lantern: Hobbies and things that I love:
+* :airplane: Motorcycle trips and travels in general
+* :guitar: Play and listen music
+* :video_game: Games
+* :game_die: Tabletop RPG's (Eternal Dungeon Master)
+* :japanese_castle: Oriental culture in general
 
 ## :chart_with_upwards_trend: My stats:
 <p align="center">
