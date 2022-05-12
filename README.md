@@ -78,11 +78,11 @@
 * [Discord BOT](https://github.com/JoaoVFelipe/aiko-discord-bot)
 
 ## :izakaya_lantern: Hobbies and things that I love:
-* :airplane: Motorcycle trips and travels in general
+* :airplane: Motorcycle trips and travels
 * :guitar: Play and listen music
 * :video_game: Games
 * :game_die: Tabletop RPG's (Eternal Dungeon Master)
-* :japanese_castle: Oriental culture in general
+* :japanese_castle: Oriental culture
 
 ## :chart_with_upwards_trend: My stats:
 <p align="center">
