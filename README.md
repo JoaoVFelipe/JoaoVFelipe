@@ -71,7 +71,6 @@
 
 ### Related Repos:
 * [NLU Core](https://github.com/JoaoVFelipe/aiko-core)
-* [Desktop Assistant](https://github.com/JoaoVFelipe/aiko-desktop_assistant)
 * [Discord BOT](https://github.com/JoaoVFelipe/aiko-discord-bot)
 
 ## :izakaya_lantern: Hobbies and things that I love:
