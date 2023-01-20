@@ -6,7 +6,7 @@
 # Hi, João Vitor here! Welcome to my profile!👋🏼👨🏻‍💻
 
 ## Who am I?
-  * I'm 23 years old, Fullstack Developer and Machine Learning & Artificial Intelligence enthusiast - Living in Anápolis, Goiás <br />
+  * I'm 24 years old, Fullstack Developer and Machine Learning & Artificial Intelligence enthusiast - Living in Anápolis, Goiás <br />
   * Bachelor's Degree in Information Systems at UEG (State University of Goiás) <br />
   * Currently working at Stone Co. as Fullstack Developer <br />
   
